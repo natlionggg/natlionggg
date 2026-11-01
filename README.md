@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 👨🏻‍💻 I am currently a third-year Penultimate Information and Communications Technology (Software Engineering) student from Singapore Institute of Technology!
 <!--
 **natlionggg/natlionggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
